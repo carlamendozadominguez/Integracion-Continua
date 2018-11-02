@@ -1,9 +1,8 @@
 language:
   node_js
 node_js:
-  - "7"
   - "10"
   - "11"
-  - "iojs"
+  - "5"
 script: 
   - echo "Esto es una prueba de travis"

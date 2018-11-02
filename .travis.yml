@@ -1,1 +1,2 @@
-script: echo "Esto es una prueba de travis"
+script: 
+  - echo "Esto es una prueba de travis"

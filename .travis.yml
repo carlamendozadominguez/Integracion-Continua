@@ -1,6 +1,5 @@
 language:
   node_js
-
 script: 
   - echo "Esto es una prueba de travis"
   - exit 2
